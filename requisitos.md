@@ -343,6 +343,330 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Crear base de datos**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear la base de datos para la gestión de productos y usuarios             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Añadir usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir un usuario en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Modificar usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un usuario en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Eliminar usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un usuario y así su cuenta en el sitio web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Loguearse con un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Poder acceder al sitio web con un usuario registrado.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Búsqueda de productos**         |
+| --------------: | :------------------- |
+| **Descripción** | Widget de búsqueda de productos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Búsqueda por nombre**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar el producto dicho por el usuario en la base de datos por nombre específico.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Búsqueda por producto**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar el producto dicho por el usuario en la base de datos por nombre general.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Búsqueda por categoría**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar el producto dicho por el usuario en la base de datos por categoría de producto.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Búsqueda por marca**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar el producto dicho por el usuario en la base de datos por marca.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Añadir el producto.**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir un producto en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Modificar el producto.**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un producto en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Eliminar el producto.**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un producto en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Agregar contador de visitas a los productos**         |
+| --------------: | :------------------- |
+| **Descripción** | Cada producto tendrá un contador de las visitas que ha tenido por los usuarios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Prioridad a los productos que tengan mas visitas**         |
+| --------------: | :------------------- |
+| **Descripción** | Los productos que tengan más visitas aparecerán en la pagina principal como productos destacados             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Los usuarios podrán poner comentarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán añadir un comentario a los productos que quieran             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R55**     | **Añadir comentario.**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador deberá añadir el comentario del usuario al producto             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R56**     | **Eliminar comentario.**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá eliminar el comentario del usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R57**     | **Editar comentario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Editar un comentario por parte del usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R58**     | **Registrarse**         |
+| --------------: | :------------------- |
+| **Descripción** | Dar la oportunidad al usuario de registrarse en la aplicación almacenando dichos datos en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R59**     | **Modificar perfil de usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar el perfil del usuario logueado en este momento.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R60**     | **Añadir producto a favoritos.**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir el producto a la lista de favoritos del cliente logueado en ese momento.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R61**     | **Quitar producto de favoritos.**         |
+| --------------: | :------------------- |
+| **Descripción** | Quitar el producto de la lista de favoritos del cliente logueado en ese momento.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R62**     | **Agregar links de compra**         |
+| --------------: | :------------------- |
+| **Descripción** | Se deberá enlazar los productos con la página de compra del producto.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R63**     | **Añadir un producto por parte del usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Se habilitará la opción al usuario de añadir su producto.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R64**     | **Uso Amazon S3**         |
+| --------------: | :------------------- |
+| **Descripción** | Se utilizará el servicio de almacenamiento de AWS para las fotos de los productos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R65**     | **Multilenguaje.**         |
+| --------------: | :------------------- |
+| **Descripción** | La página tendrá dos idiomas, Español e Inglés.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R66**     | **Poder recuperar la cuenta del usuario.**         |
+| --------------: | :------------------- |
+| **Descripción** | Posibilidad de recuperar una cuenta que ha sido eliminada.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R67**     | **Cambiar contraseña**         |
+| --------------: | :------------------- |
+| **Descripción** | Posibilidad de cambiar una contraseña que ha sido olvidada.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R68**     | **Avisar de un producto nuevo**         |
+| --------------: | :------------------- |
+| **Descripción** | Avisar a los usuarios que sigan ciertos tipos de productos de la subida de un producto nuevo             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R69**     | **Usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Se deberá saber: id, nombre, password.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R70**     | **Productos**         |
+| --------------: | :------------------- |
+| **Descripción** | Se deberá saber: id, nombre, descripción, categoría, marca, link.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R71**     | **Categoría**         |
+| --------------: | :------------------- |
+| **Descripción** | Se deberá saber: id, nombre.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R72**     | **Añadir imagen a AWS**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir las imágenes de los productos en AWS             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R73**     | **Modificar imagen de AWS**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar las imágenes de los productos en AWS             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R74**     | **Eliminar imagen de AWS**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar las imágenes de los productos en AWS             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
 
 ## Cuadro resumen
 
@@ -386,3 +710,39 @@
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R39**) Crear base de datos | Importante | Información | Fácil | v1 | 
+| (**R40**) Añadir usuario. | Importante | Funcional | Fácil | v1 | 
+| (**R41**) Modificar usuario. | Importante | Funcional | Fácil | v1 | 
+| (**R42**) Eliminar usuario. | Importante | Funcional | Fácil | v1 | 
+| (**R43**) Loguearse con un usuario | Mínimo | Funcional | Fácil | v1 | 
+| (**R44**) Búsqueda de productos | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Búsqueda por nombre | Importante | Funcional | Fácil | v1 | 
+| (**R46**) Búsqueda por producto | Importante | Funcional | Fácil | v1 | 
+| (**R47**) Búsqueda por categoría | Importante | Funcional | Fácil | v1 | 
+| (**R48**) Búsqueda por marca | Importante | Funcional | Fácil | v1 | 
+| (**R49**) Añadir el producto. | Importante | Funcional | Fácil | v1 | 
+| (**R50**) Modificar el producto. | Importante | Funcional | Fácil | v1 | 
+| (**R51**) Eliminar el producto. | Importante | Funcional | Fácil | v1 | 
+| (**R52**) Agregar contador de visitas a los productos | Importante | Funcional | Fácil | v1 | 
+| (**R53**) Prioridad a los productos que tengan mas visitas | Mínimo | Funcional | Media | v1 | 
+| (**R54**) Los usuarios podrán poner comentarios | Importante | Funcional | Fácil | v2 | 
+| (**R55**) Añadir comentario. | Importante | Funcional | Fácil | v2 | 
+| (**R56**) Eliminar comentario. | Importante | Funcional | Fácil | v2 | 
+| (**R57**) Editar comentario. | Importante | Funcional | Fácil | v2 | 
+| (**R58**) Registrarse | Importante | Funcional | Fácil | v1 | 
+| (**R59**) Modificar perfil de usuario. | Importante | Funcional | Fácil | v2 | 
+| (**R60**) Añadir producto a favoritos. | Importante | Funcional | Media | v2 | 
+| (**R61**) Quitar producto de favoritos. | Importante | Funcional | Media | v2 | 
+| (**R62**) Agregar links de compra | Importante | Funcional | Fácil | v1 | 
+| (**R63**) Añadir un producto por parte del usuario | Importante | Funcional | Media | v2 | 
+| (**R64**) Uso Amazon S3 | Importante | Funcional | Media | v3 | 
+| (**R65**) Multilenguaje. | Importante | Funcional | Media | v3 | 
+| (**R66**) Poder recuperar la cuenta del usuario. | Opcional | Funcional | Media | v3 | 
+| (**R67**) Cambiar contraseña | Opcional | Funcional | Media | v3 | 
+| (**R68**) Avisar de un producto nuevo | Opcional | Funcional | Media | v3 | 
+| (**R69**) Usuario | Importante | Información | Fácil | v1 | 
+| (**R70**) Productos | Importante | Información | Fácil | v1 | 
+| (**R71**) Categoría | Importante | Información | Fácil | v1 | 
+| (**R72**) Añadir imagen a AWS | Importante | Funcional | Media | v3 | 
+| (**R73**) Modificar imagen de AWS | Importante | Funcional | Media | v3 | 
+| (**R74**) Eliminar imagen de AWS | Importante | Funcional | Media | v3 | 
